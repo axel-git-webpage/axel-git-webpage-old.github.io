@@ -1,1 +1,17 @@
+title: My professional website
+email: axel.vuorinen@inria.fr
+description: >- # this means to ignore newlines until "baseur1:"
+  Initial webpage building (V1).
+baseur1: "" # the subpath of your site, e.g. /blog
+url: "axel-git-webpage.github.io"
+github_username: axel-git-webpage
 
+remote_theme: StartBootstrap/startboostrap-clean-blog-jekyll
+
+name: Initial webpage building (V1).
+
+exclude:
+  - tmp/
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
