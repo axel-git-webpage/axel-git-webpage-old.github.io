@@ -6,7 +6,7 @@ baseur1: "" # the subpath of your site, e.g. /blog
 url: "axel-git-webpage.github.io"
 github_username: axel-git-webpage
 
-remote_theme: StartBootstrap/startboostrap-clean-blog-jekyll
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 
 name: Initial webpage building (V1).
 
